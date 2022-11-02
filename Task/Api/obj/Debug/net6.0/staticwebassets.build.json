@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "hYl9hJxBf0xC8m9M1/vwOHfhpfAad+TWuke+tHNIFik=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\AsgarTask\\Task-Student\\Task\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\AsgarTask\\Task-Student\\Task\\Api\\wwwroot\\Templates\\Confirm.html",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\AsgarTask\\Task-Student\\Task\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "Templates/Confirm.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\Confirm.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\AsgarTask\\Task-Student\\Task\\Api\\wwwroot\\Templates\\Reset.html",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\AsgarTask\\Task-Student\\Task\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "Templates/Reset.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\Reset.html"
+    }
+  ]
+}
